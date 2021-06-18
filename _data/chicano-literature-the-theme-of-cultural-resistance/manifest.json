@@ -23,6 +23,50 @@
         "id": "https://marinads.github.io/chicano-citizen-poets/chicano-literature-the-theme-of-cultural-resistance/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1472.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://marinads.github.io/chicano-citizen-poets/chicano-literature-the-theme-of-cultural-resistance/canvas-1/canvas/musical-interlude.json",
+            "label": "Musical Interlude"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://marinads.github.io/chicano-citizen-poets/chicano-literature-the-theme-of-cultural-resistance/canvas-1/canvas/juan-rodriguez.json",
+            "label": "Juan Rodriguez"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://marinads.github.io/chicano-citizen-poets/chicano-literature-the-theme-of-cultural-resistance/canvas-1/canvas/linda-fragoso.json",
+            "label": "Linda Fragoso"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://marinads.github.io/chicano-citizen-poets/chicano-literature-the-theme-of-cultural-resistance/canvas-1/canvas/show-closing.json",
+            "label": "Show Closing"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://marinads.github.io/chicano-citizen-poets/chicano-literature-the-theme-of-cultural-resistance/canvas-1/canvas/show-opening.json",
+            "label": "Show Opening"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://marinads.github.io/chicano-citizen-poets/chicano-literature-the-theme-of-cultural-resistance/canvas-1/canvas/raul-salinas.json",
+            "label": "Raul Salinas"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://marinads.github.io/chicano-citizen-poets/chicano-literature-the-theme-of-cultural-resistance/canvas-1/canvas/musical-closing.json",
+            "label": "Musical Closing"
+          }
+        ],
         "items": [
           {
             "id": "https://marinads.github.io/chicano-citizen-poets/chicano-literature-the-theme-of-cultural-resistance/canvas-1/paintings",
