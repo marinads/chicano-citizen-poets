@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Chicano Citizen Poets" ] },
+    "summary": { "en": [ "Recordings from the radio program, The Mexican American Experience, which was broadcast on the Longhorn Radio Network from 1976-1982.  This collection of recordings focus on Chicano poets.  These recordings are archived in the Onda Latin Collection by the Benson Latin American Collection at the University of Texas at Austin" ] },
+    "items": [
+    ]
+}
