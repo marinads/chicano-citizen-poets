@@ -5,7 +5,7 @@
     "label": { "en": [ "Cultural Resistance " ] },
     "homepage": [
       {
-        "id": "http://www.laits.utexas.edu/onda_latina/program?sernum=000536358&amp;amp;term=",
+        "id": "http://www.laits.utexas.edu/onda_latina/program?sernum=000536358&amp;amp;amp;term=",
         "type": "Text",
         "label": { "en": [ "Cultural Resistance " ] },
         "format": "text/html"
@@ -23,6 +23,50 @@
         "id": "https://marinads.github.io/chicano-citizen-poets/cultural-resistance-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1472.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://marinads.github.io/chicano-citizen-poets/cultural-resistance-/canvas-1/canvas/musical-interlude.json",
+            "label": "Musical Interlude"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://marinads.github.io/chicano-citizen-poets/cultural-resistance-/canvas-1/canvas/juan-rodriguez.json",
+            "label": "Juan Rodriguez"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://marinads.github.io/chicano-citizen-poets/cultural-resistance-/canvas-1/canvas/show-closing.json",
+            "label": "Show Closing"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://marinads.github.io/chicano-citizen-poets/cultural-resistance-/canvas-1/canvas/show-opening.json",
+            "label": "Show Opening"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://marinads.github.io/chicano-citizen-poets/cultural-resistance-/canvas-1/canvas/raul-salinas.json",
+            "label": "Raul Salinas"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://marinads.github.io/chicano-citizen-poets/cultural-resistance-/canvas-1/canvas/musical-closing.json",
+            "label": "Musical Closing"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://marinads.github.io/chicano-citizen-poets/cultural-resistance-/canvas-1/canvas/linda-fregoso.json",
+            "label": "Linda Fregoso"
+          }
+        ],
         "items": [
           {
             "id": "https://marinads.github.io/chicano-citizen-poets/cultural-resistance-/canvas-1/paintings",
