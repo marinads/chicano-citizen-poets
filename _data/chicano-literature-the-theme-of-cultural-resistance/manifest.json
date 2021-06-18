@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://marinads.github.io/chicano-citizen-poets/chicano-literature-the-theme-of-cultural-resistance/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Chicano Literature: The Theme of Cultural Resistance" ] },
+    "homepage": [
+      {
+        "id": "http://www.laits.utexas.edu/onda_latina/index",
+        "type": "Text",
+        "label": { "en": [ "Chicano Literature: The Theme of Cultural Resistance" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://www.lib.utexas.edu/about/locations/benson",
+        "type": "Agent",
+        "label": { "en": [ "The Benson Latin American Collection" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://marinads.github.io/chicano-citizen-poets/chicano-literature-the-theme-of-cultural-resistance/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1472.0,
+        "items": [
+          {
+            "id": "https://marinads.github.io/chicano-citizen-poets/chicano-literature-the-theme-of-cultural-resistance/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://marinads.github.io/chicano-citizen-poets/chicano-literature-the-theme-of-cultural-resistance/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://dase.laits.utexas.edu/media/mexican_american_experience/mp3/000536358.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 1472.0
+                },
+                "target": "https://marinads.github.io/chicano-citizen-poets/chicano-literature-the-theme-of-cultural-resistance/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
